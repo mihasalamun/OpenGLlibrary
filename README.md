@@ -1,6 +1,6 @@
 ## OpenGL library
 
-Library for drawing in 2D and 3D.
+Library for drawing in 2D and 3D. Example usage in my [OpenGL projects](https://github.com/mihasalamun/OpenGLprojects) repo.
 
 *** 
 
