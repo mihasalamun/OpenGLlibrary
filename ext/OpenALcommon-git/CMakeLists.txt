@@ -1,0 +1,5 @@
+file(GLOB srcfiles src/*.c*)
+add_library(OpenALcommon ${srcfiles})
+target_include_directories(OpenALcommon PUBLIC include)
+target_link_options(OpenALcommon PUBLIC -fpermissive)
+target_compile_options(OpenALcommon PUBLIC -fpermissive)
